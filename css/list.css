@@ -1,0 +1,51 @@
+.shop_dhl_bg{
+	background-color: #e53;
+}
+
+.breadcrumb-item + .breadcrumb-item::before{
+	content: "＞";
+}
+.page-item .page-link {
+	color: #000000;
+	background-color: transparent;
+	border-color: #ccc;
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+}
+.page-item+.page-item{margin-left: 0.5rem;}
+.page-link:hover{
+	background-color: transparent;
+	border-color: #e53;
+}
+.page-item.disabled .page-link{
+	background-color: transparent;
+	border-color: #ccc;
+}
+.page-item.active .page-link{
+	background-color: #e53;
+	border-color: #ccc;
+}
+@media (min-width:576px) {
+	.shopping_header{
+		height: 22rem;
+	}
+	.my_footer{
+		height: 38rem;
+	}
+}
+@media (min-width:992px) {
+	.shopping_header{
+		height: 14rem;
+	}
+	.my_footer{
+		height: 29rem;
+	}
+}
+.shopping_header{
+	width: 100%;
+	border: 0;
+}
+.my_footer{
+	width: 100%;
+	border: 0;
+}

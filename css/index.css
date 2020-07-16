@@ -1,0 +1,56 @@
+.my_dhl_bg{
+	background-color: #FF6655;
+}
+.myborder_color{
+	border-color: #e35342 !important;
+}
+.carousel-indicators li{
+	width: 1.5rem;height: 1.5rem;
+	border-radius: 50%;
+	background-color: #fff;
+}
+.carousel-indicators .active{
+	background-color: #FF6655;
+}
+.carousel-control-next,.carousel-control-prev{
+	width: 4%;height: 20%;
+	background-color: #aaa;
+	border-radius: 0.25rem;
+	top: 40%;
+}
+.my_bg_product{
+	background-color: #f3f3f3;
+}
+.my_img{
+	width: 8.75rem;
+	margin-top: -100px;
+	margin-right: 0px;
+}
+.1f_img{
+	width: 11.25rem;
+	height: 7.5rem;
+}
+.my_header{
+	width: 100%;
+	border: 0;
+}
+.my_footer{
+	width: 100%;
+	border: 0;
+}
+@media (min-width:576px) {
+	.my_header{
+		height: 22rem;
+	}
+	.my_footer{
+		height: 38rem;
+	}
+}
+@media (min-width:992px) {
+	.my_header{
+		height: 10rem;
+	}
+	.my_footer{
+		height: 29rem;
+	}
+}

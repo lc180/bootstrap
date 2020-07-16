@@ -1,0 +1,39 @@
+.breadcrumb-item + .breadcrumb-item::before{
+	content: "＞";
+}
+.shop_dhl_img{
+	background-color: #e53;
+}
+.w-15{width: 15%;}
+.btn-outline-dark:hover{
+	border-color: #e53;
+	background-color: transparent;
+}
+.btn{
+	border-radius: 0;
+}
+.btn_bg{background-color: #ddd;}
+.my_header{
+	width: 100%;
+	border: 0;
+}
+.my_footer{
+	width: 100%;
+	border: 0;
+}
+@media (min-width:576px) {
+	.my_header{
+		height: 21rem;
+	}
+	.my_footer{
+		height: 38rem;
+	}
+}
+@media (min-width:992px) {
+	.my_header{
+		height: 14rem;
+	}
+	.my_footer{
+		height: 29rem;
+	}
+}

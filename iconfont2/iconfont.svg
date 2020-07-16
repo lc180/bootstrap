@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shoucang" unicode="&#58894;" d="M568.98 171.59L777.44-31.7c33.91-33.07 90.9-9.04 90.9 38.32V664.38c0 84.11-68.18 152.29-152.29 152.29h-406.1c-84.11 0-152.29-68.18-152.29-152.29v-656.67c0-47.52 57.31-71.48 91.13-38.09l204.26 201.62c32.1 31.67 83.65 31.83 115.93 0.35zM513 720.92l55.85-113.17 124.89-18.14-90.37-88.09 21.33-124.38L513 435.86l-111.7-58.72 21.33 124.38-90.37 88.09 124.89 18.14z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

@@ -1,0 +1,49 @@
+a.text-dark:hover{
+	color: red !important;
+	text-decoration: underline !important;
+}
+.breadcrumb-item + .breadcrumb-item::before{
+	content: "丨";
+}
+.my_border_bottom{
+	border-bottom: 1px solid #d9d9d9;
+}
+.my_border1_bottom{
+	border-bottom:2px solid #f65;
+}
+.my_input{
+	height: 34px;
+	border-radius: 0;
+	border: 2px solid #f65;
+	outline: 0;
+}
+.form-control:focus {
+  box-shadow: 0 0 0 0;
+	border-color: #FF6655;
+}
+.my_button{
+	width: 100px;height: 34px;
+	border: 2px solid #f65;
+	color: #fff;
+	background-color: #f65;
+}
+@media (min-width:576px) {
+	.myimg_logo{
+		width: 50%;
+	}
+}
+@media (min-width:768px) {
+	.myimg_logo{
+		width: 75%;
+	}
+}
+@media (min-width:576px) {
+	.myimg_app{
+		width:90%;
+	}
+}
+@media (min-width:768px) {
+	.myimg_app{
+		width:100%;
+	}
+}
